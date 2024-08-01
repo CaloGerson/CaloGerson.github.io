@@ -1,0 +1,9 @@
+# gitignore file
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .prettierrc file
+.prettierrc
+package-lock.json
+package.json
